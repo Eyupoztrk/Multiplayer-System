@@ -22,7 +22,7 @@ public class FirebaseManager : MonoBehaviour, IDatabase, ICollectionable
     // Replace these values with the ones from your google-services.json
     private const string ProjectId = "unityfornotes";
     private const string ApplicationId = "1:254690127134:android:67dc900712927746e4ed0f";
-    private const string ApiKey = "AIzaSyAPf7LCO1PRZ6dXqGsv8RUuycb_y_laW7E";
+    private const string ApiKey = "Api-Key";
     private const string StorageBucket = "unityfornotes.appspot.com";
 
     private void Start()
